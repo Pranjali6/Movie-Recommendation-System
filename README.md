@@ -1,10 +1,10 @@
-Movie Recommendation System
+**Movie Recommendation System**
 
-Overview
+**Overview**
 
 This project aims to develop a personalized movie recommendation system using machine learning techniques. By leveraging collaborative filtering and content-based algorithms, the system provides tailored movie suggestions based on user preferences and movie attributes. The goal is to enhance user experience by offering relevant and engaging movie recommendations.
 
-*Features:*
+**Features:**
 
 1)Personalized Recommendations: Utilizes user ratings and preferences to generate customized movie suggestions.
 
@@ -16,7 +16,7 @@ This project aims to develop a personalized movie recommendation system using ma
 
 
 
-*Technologies Used*:
+**Technologies Used:**
 
 Python: Programming language used for development.
 
