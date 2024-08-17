@@ -15,7 +15,8 @@ This project aims to develop a personalized movie recommendation system using ma
 4)Dynamic Suggestions: Continuously updates recommendations based on new user data and interactions.
 
 
-*Technologies Used*
+
+*Technologies Used*:
 
 Python: Programming language used for development.
 
